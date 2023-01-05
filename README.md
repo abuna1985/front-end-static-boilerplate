@@ -16,3 +16,8 @@
 </div>
 
 A modern front-end boilerplate with an automated build process, a local development server, production minification and other optimizations
+
+What is the problem you set out to solve? How did you uncover this problem? What were your initial feelings about tackling it?
+What are the steps you took to solve this problem? Which turned out to be necessary, and which paths did you abandon?
+What obstacles did you come across? Were any of them unexpected? How did you get around them? Include meaningful code snippets or diagrams so others can follow.
+What did you learn from this project? What was the outcome? Are you still evaluating? Are there any next steps? What recommendations do you have for others?
