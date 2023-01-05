@@ -1,3 +1,3 @@
-import '../styles/index.scss';
+import '../sass/_index.scss';
 
 console.log('index page');
